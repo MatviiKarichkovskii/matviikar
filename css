@@ -26,7 +26,7 @@ nav {
     padding: 25px 100px 25px 95px;
     justify-content: space-between;
     display: flex;
-    display: block;
+    
 }
 
 .nav-link {
@@ -34,6 +34,7 @@ nav {
     color: white;
     text-decoration: none;
     margin: 25px 63px 25px 63px;
+    display: block;
 }
 
 h1 {
@@ -118,6 +119,10 @@ footer p {
     font-size: 24px;
 }
 img{
+    width: 100%;
+    min-height: 270px;
+}
+.b{
     width: 100%;
     min-height: 270px;
 }
